@@ -1,5 +1,7 @@
 # **Threat Modeling Resources**
 
+I moderate threat modeling exercises for clients. Here are some threat modeling resources that I share with the team:
+
 * [Threat Modeling Study Plan](https://github.com/jassics/security-study-plan/blob/main/threat-modeling-study-plan.md) from Sanjeev Jaiswal
 * [Threat Modeling: 12 Available Methods](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) from Nataliya Shevchenko
 * [Threat Modeling: Process, Frameworks, and Tools](https://www.hackerone.com/knowledge-center/threat-modeling-process-frameworks-and-tools) from hackerone
