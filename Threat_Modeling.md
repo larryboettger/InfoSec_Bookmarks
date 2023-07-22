@@ -1,4 +1,4 @@
-#**Threat Modeling Resources**
+# **Threat Modeling Resources**
 
 * [Threat Modeling Study Plan](https://github.com/jassics/security-study-plan/blob/main/threat-modeling-study-plan.md)
 * [Threat Modeling: 12 Available Methods](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/)
