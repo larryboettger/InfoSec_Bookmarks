@@ -1,7 +1,7 @@
 # Information Security Quotes
 Repository of information security quote resources.
 
-I conduct presentations and write paper on cybersecurity topics. These are resources that I check first when I want to use a quote:
+I conduct presentations and write papers on cybersecurity topics. These are resources that I check first when I want to use a quote:
 
 * [goodreads Cyber Security Quotes](https://www.goodreads.com/quotes/tag/cyber-security)
 * [99 Inspiring Cybersecurity Quotes](https://pinngle.me/blog/99-inspiring-cybersecurity-quotes/)
