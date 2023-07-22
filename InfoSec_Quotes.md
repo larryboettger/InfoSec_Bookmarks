@@ -1,5 +1,4 @@
 # Information Security Quotes
-Repository of information security quote resources.
 
 I conduct presentations and write papers on cybersecurity topics. These are resources that I check first when I want to use a quote:
 
