@@ -1,6 +1,6 @@
 # Cybersecurity Tools
 
-Here are some of my favorite cybersecurity tools: 
+Cybersecurity tools resources: 
 
 * [12 open-source penetration testing tools you might not know about - Help Net Security](https://www.helpnetsecurity.com/2023/07/18/open-source-penetration-testing-tools/)
 * [Free Tools for Cloud Environments | CISA](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
