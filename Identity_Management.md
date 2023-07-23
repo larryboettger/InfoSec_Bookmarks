@@ -13,6 +13,7 @@ Identity management is a critical component for an optimized cybersecurity progr
     - Budgeting (licensing costs, for example), 
     - Maintain identity controls playbooks so all people in the process know their roles & responsibilities & can execute their assigned tasks in a repeatable manner regardless if it's the primary subject matter expert (SME) or their backup SMEs doing the work.
 I help organizations design & implement IAM/IGA/PAM solutions (Okta, SailPoint, Thycotic/Delinea, etc.) and write procedures so that identity management practices can be effective, repeatable & manageable. 
+
 Here are some resources that I've used as guides when helping clients with their identity management initiatives:
 
 * [Free e-Book: Practical Identity Management with MidPoint](https://evolveum.com/midpoint/midpoint-guide-about-practical-identity-management/)
