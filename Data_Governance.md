@@ -1,6 +1,8 @@
 # Data Governance
 
-Sensitive data discovery & governance can be a challenge, especially unstructured data. Here are some bookmarks of data discovery & governance resources:
+Sensitive data discovery & governance can be a challenge, especially unstructured data. 
+
+Here are some bookmarks of data discovery & governance resources:
 
 * [ziishaned/learn-regex: Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 * [Regular Expression Tutorial - Learn How to Use Regular Expressions](https://www.regular-expressions.info/tutorial.html)
