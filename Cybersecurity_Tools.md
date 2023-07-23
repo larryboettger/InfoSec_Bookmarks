@@ -12,7 +12,7 @@ Cybersecurity tools resources:
 * [Set it on Fire Child -OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104)
 * [Web Application Security, Testing, & Scanning - PortSwigger](https://portswigger.net/)
 * [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
-* [Wireshark Â· Go Deep](https://www.wireshark.org/)
+* [Wireshark](https://www.wireshark.org/)
 * [CVE - CVE](https://cve.mitre.org/)
 * [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
 * [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
