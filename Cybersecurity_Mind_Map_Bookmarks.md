@@ -1,6 +1,6 @@
 # Cybersecurity Mind Map Bookmarks
 
-I use mind maps when sharing ideas, learning something new, etc. Here are my bookmarks of cybersecurity mind maps that I've collected or created:
+I use mind maps when sharing ideas, learning something new, etc. Here are some bookmarks of cybersecurity mind maps that I've collected or created:
 
 * [amanhardikar/Mind Maps](https://www.amanhardikar.com/mindmaps.html)
 * [larryboettger/Cybersecurity-Mindmaps](https://github.com/larryboettger/Cybersecurity-Mindmaps)
