@@ -25,3 +25,24 @@ Here are some bookmarks of data discovery & governance resources:
 * [Collibra Data Catalog](https://www.collibra.com/us/en/products/data-catalog)
 * [BigID | Data Visibility & Control](https://bigid.com/)
 * [Data Inventory and Mapping Tools | ActiveNav](https://www.activenav.com/solutions/inventory-and-mapping)
+
+# Questions to Ask Data Discovery Solution Vendors
+
+Data discovery is an important step in protecting sensitive data where it is stored,
+processed and transmitted (You cannot protect what you don't know about). The
+process involves both manual and automated collection activities. Sometimes
+organizations have a misconception that an automated data discovery tool will find all
+the data. This is not always the case because the data discovery scanning application
+does not have:
+* All the information to find the data, such as in SaaS applications or systems on
+unknown networks
+* Adequate credentials and permissions to access the data
+* All the regex patterns or data dictionaries necessary to find both structured and
+unstructured data
+
+Basic questions to ask data discovery solution vendors before investing in them:
+* What methodology is used to find both structured and unstructured data
+* Do they have templates (data dictionaries, regex patterns, etc.) to find structured
+and unstructured data specific to your industry or regulation (PCI, CMMC, HIPAA,
+etc.)?
+* Will they allow you to conduct a full trial?
