@@ -2,7 +2,7 @@
 
 I use mind maps when sharing ideas, learning something new, etc. Here are my bookmarks of cybersecurity mind maps that I've collected or created:
 
-* [Mind Maps](https://www.amanhardikar.com/mindmaps.html)
+* [amanhardikar/Mind Maps](https://www.amanhardikar.com/mindmaps.html)
 * [larryboettger/Cybersecurity-Mindmaps](https://github.com/larryboettger/Cybersecurity-Mindmaps)
 * [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 * [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps)
