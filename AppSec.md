@@ -5,7 +5,7 @@ Almost all the security & risk assessments that I conduct (PCI, CMMC, HIPAA, etc
 * [OWASP Top 10 for Large Language Model Applications | OWASP Foundation](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://media.defense.gov/2023/Jun/28/2003249466/-1/-1/0/CSI_DEFENDING_CI_CD_ENVIRONMENTS.PDF)
 * [CWE - 2023 CWE Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2023/2023_top25_list.html)
-* [3 ways to use Common Attack Patterns to abuse an API - Security Boulevard]	https://securityboulevard.com/2023/06/3-ways-to-use-common-attack-patterns-to-abuse-an-api/)
+* [3 ways to use Common Attack Patterns to abuse an API - Security Boulevard](https://securityboulevard.com/2023/06/3-ways-to-use-common-attack-patterns-to-abuse-an-api/)
 * [CAPEC - CAPEC-1000: Mechanisms of Attack (Version 3.9)](https://capec.mitre.org/data/definitions/1000.html?ref=danaepp.com)
 * [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
 * [Ignitetechnologies/Web-Application-Cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
