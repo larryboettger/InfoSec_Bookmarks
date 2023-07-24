@@ -14,4 +14,4 @@ Here are some MITRE ATT&CK bookmarks that I use:
 * [Introduction to MITRE ATT&CK - Featuring Version 12 (2023)](https://feedly.com/ahead/posts/introduction-to-mitre-attack-featuring-version-12-2023)
 * [Top 10 free MITRE ATT&CK tools and resources - Help Net Security](https://www.helpnetsecurity.com/2022/12/05/top-10-free-mitre-attack-tools-resources/)
 * [MITRE Engage](https://engage.mitre.org/)
-* [MITRE ATT&CK[(https://attack.mitre.org/)
+* [MITRE ATT&CK](https://attack.mitre.org/)
