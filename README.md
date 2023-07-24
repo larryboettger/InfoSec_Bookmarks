@@ -1,2 +1,2 @@
-# InfoSec_Resources
+# InfoSec_Bookmarks
 Repository of information security bookmarks
