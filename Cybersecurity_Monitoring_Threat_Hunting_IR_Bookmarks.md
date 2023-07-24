@@ -1,4 +1,4 @@
-# Cybersecurity Monitoring, Threat Hunting and Incident Response Bookmarks
+# Cybersecurity Monitoring, Threat Hunting & Incident Response Bookmarks
 
 Cybersecurity monitoring, logging & incident response is almost always included in cybersecurity projects that I work on. 
 
