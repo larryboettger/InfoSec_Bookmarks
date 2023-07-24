@@ -4,10 +4,10 @@ I'm almost always talking to clients about how they can implement, maintain & me
 
 Here are some starting metrics and a link to resources that I used to compile the lists:
 
-* [The Insider Threat Metrics You Need to Justify Your Insider Threat Program | Proofpoint US](https://www.proofpoint.com/us/blog/insider-threat-management/insider-threat-metrics-you-need-justify-your-insider-threat-program)
 * [CIS Controls V7 Measures & Metrics](https://www.cisecurity.org/insights/white-papers/cis-controls-v7-measures-metrics)
-* [Cyber Resiliency Metrics, Measures of Effectiveness, and Scoring | MITRE](https://www.mitre.org/news-insights/publication/cyber-resiliency-metrics-measures-effectiveness-and-scoring)
 * [The Continuous Audit Metrics Catalog | CSA](https://cloudsecurityalliance.org/artifacts/the-continuous-audit-metrics-catalog)
+* [Cyber Resiliency Metrics, Measures of Effectiveness, and Scoring | MITRE](https://www.mitre.org/news-insights/publication/cyber-resiliency-metrics-measures-effectiveness-and-scoring)
+* [The Insider Threat Metrics You Need to Justify Your Insider Threat Program | Proofpoint US](https://www.proofpoint.com/us/blog/insider-threat-management/insider-threat-metrics-you-need-justify-your-insider-threat-program)
 
 * List of Cyber Metrics:
 
