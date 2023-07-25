@@ -2,6 +2,8 @@
 
 It's important to keep cybersecurity skills up-to-date in order to reduce the risks from cyber attacks. Here are some cybersecurity training resources that I use:
 
+* [Cybersecurity Careers & Roles Resources](https://github.com/larryboettger/Cybersecurity_Resources/blob/main/Cybersecurity%20Careers%20%26%20Roles%20Resources.pdf)
+* [Cybersecurity Training & Knowledge Sharing Resources](https://github.com/larryboettger/Cybersecurity_Resources/blob/main/Cybersecurity%20Training%20%26%20Knowledge%20Sharing%20Resources.pdf)
 * [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
 * [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
 * [hakluke on Twitter: List of resources for beginner hackers](https://twitter.com/hakluke/status/1661688895061340163)
