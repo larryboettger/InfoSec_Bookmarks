@@ -1,4 +1,4 @@
-# Application Security Resources
+# Application Security Bookmarks
 
 Almost all the security & risk assessments that I conduct (PCI, CMMC, HIPAA, etc.) include interviewing developers about their secure application development practices.  I often get asked about some of my AppSec resources, so I created a list of bookmarks that I share here:
 
