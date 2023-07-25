@@ -1,4 +1,4 @@
-# Identity Management
+# Identity Management Bookmarks
 
 Identity management is a critical component for an optimized cybersecurity program. It can be a challenge to implement due to:
 * Not having an inventory of all of the identities,
