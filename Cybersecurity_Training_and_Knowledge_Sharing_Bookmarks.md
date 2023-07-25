@@ -5,7 +5,7 @@ It's important to keep cybersecurity skills up-to-date in order to reduce the ri
 * [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
 * [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
 * [hakluke on Twitter](https://twitter.com/hakluke/status/1661688895061340163)
-* [Help Net Security on Twitter](https://twitter.com/helpnetsecurity/status/1665644632611463169)
+* [Help Net Security on Twitter: 9 free cybersecurity whitepapers you should read](https://twitter.com/helpnetsecurity/status/1665644632611463169)
 * [Security Trybe on Twitter: 22 Great Cybersecurity & Hacking Documentaries](https://twitter.com/SecurityTrybe/status/1664353557208879111)
 * [Security Trybe on Twitter: 8 Sites to Practice Coding with Exercises ](https://twitter.com/SecurityTrybe/status/1666496537591963654)
 * [Salesforce Trailhead](https://trailhead.salesforce.com/search?keywords=security)
