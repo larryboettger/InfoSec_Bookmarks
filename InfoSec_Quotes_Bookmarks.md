@@ -1,4 +1,4 @@
-# Information Security Quotes
+# Information Security Quotes Bookmarks
 
 I conduct presentations and write papers on cybersecurity topics. These are resources that I check first when I want to use a quote:
 
