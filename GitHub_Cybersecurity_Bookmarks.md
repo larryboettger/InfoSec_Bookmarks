@@ -114,7 +114,7 @@ Some bookmarks of cybersecurity related repositories on GitHub:
 
 * [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird#an-osint-tool-to-search-fast-for-accounts-by-username-across-574-sites)
 
-* [optiv/Freeze	https://github.com/optiv/Freeze)
+* [optiv/Freeze](https://github.com/optiv/Freeze)
 
 * [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester)
 
