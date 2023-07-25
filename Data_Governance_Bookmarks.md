@@ -1,4 +1,4 @@
-# Data Governance
+# Data Governance Bookmarks
 
 Sensitive data discovery & governance can be a challenge, especially unstructured data. 
 
