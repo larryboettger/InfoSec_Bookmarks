@@ -13,7 +13,7 @@ Cybersecurity tools resources:
 * [Web Application Security, Testing, & Scanning - PortSwigger](https://portswigger.net/)
 * [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
 * [Wireshark](https://www.wireshark.org/)
-* [CVE - CVE](https://cve.mitre.org/)
+* [CVE](https://cve.mitre.org/)
 * [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
 * [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 * [Active Directory Penetration Testing - Security Assessment Resources.pdf](https://github.com/larryboettger/Cybersecurity_Resources/blob/main/Active%20Directory%20Penetration%20Testing%20-%20Security%20Assessment%20Resources.pdf)
