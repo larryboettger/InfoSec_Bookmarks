@@ -1,4 +1,4 @@
-# **Threat Modeling Bookmarks**
+# **Cybersecurity Threat Modeling Bookmarks**
 
 I moderate threat modeling exercises for clients. Here are some threat modeling resources that I share with the team:
 
