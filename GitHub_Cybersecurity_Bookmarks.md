@@ -1,6 +1,6 @@
 # GitHub Cybersecurity Bookmarks
 
-Some bookmarks of cybersecurity related repositories on GitHub:
+Cybersecurity related repositories on GitHub:
 
 * [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve)
 
