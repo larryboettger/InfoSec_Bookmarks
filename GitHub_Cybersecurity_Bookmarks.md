@@ -2,6 +2,10 @@
 
 Cybersecurity related repositories on GitHub:
 
+* [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out. 
+
+* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
+
 * [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - This project provides a massive up-to-date collection of Nuclei templates that can be used to scan for vulnerabilities in WordPress.
 
 * [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - A Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on with free/paid resources, tools and concepts to excel.
@@ -24,8 +28,6 @@ Cybersecurity related repositories on GitHub:
 
 * [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.
 
-* [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out. 
-
 * [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist pentesters during an engagement, this document has several products default login/password gathered from multiple sources.
 
 * [guardicore/monkey](https://github.com/guardicore/monkey) - The Infection Monkey is an open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.
@@ -34,13 +36,11 @@ Cybersecurity related repositories on GitHub:
 
 * [Limmen/awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) - A curated list of resources dedicated to reinforcement learning applied to cyber security. Note that the list includes only work that uses reinforcement learning, general machine learning methods applied to cyber security are not included in this list.
 
-* [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+* [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework.
 
 * [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) - A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 
 * [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.
-
-* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
 
 * [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) - This repository contains a Python script that allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories, helping to streamline the process of downloading multiple templates using just a single repository.
 
