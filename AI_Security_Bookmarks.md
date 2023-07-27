@@ -8,7 +8,7 @@
 
 * [Owasp Top 10 for LLMs 2023 v05](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v05.pdf)
 
-* [A Golden Age of AI â€¦ or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
+* [A Golden Age of AI ¦ or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
 
 * [AI Dominates RSA as Excitement and Questions Surround its Potential in Cybersecurity Tooling](https://www.infosecurity-magazine.com/news/ai-dominates-rsa/)
 
