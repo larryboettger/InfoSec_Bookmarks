@@ -13,10 +13,8 @@ Here are some MITRE ATT&CK bookmarks that I use:
 * [CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping | CISA](https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping)
   
 * [MITRE ATT&CK mappings released for built-in Azure security controls | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2021/06/29/mitre-attck-mappings-released-for-built-in-azure-security-controls/)
-  
-* [MITRE Attack navigator](https://mitre-attack.github.io/attack-navigator/)
-  
-* [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator)
+
+* [Picus Cyber Threat Intelligence Report May 2023: Top 10 MITRE ATT&CK Techniques](https://www.picussecurity.com/resource/blog/cyber-threat-intelligence-report-may-2023?utm_campaign=MITRE%20Generic&utm_content=252943776&utm_medium=social&utm_source=twitter&hss_channel=tw-1126286964)
   
 * [MITRE Engage](https://engage.mitre.org/)
   
@@ -24,4 +22,6 @@ Here are some MITRE ATT&CK bookmarks that I use:
   
 * [CREF Navigator](https://crefnavigator.mitre.org/navigator)
   
-* [Picus Cyber Threat Intelligence Report May 2023: Top 10 MITRE ATT&CK Techniques](https://www.picussecurity.com/resource/blog/cyber-threat-intelligence-report-may-2023?utm_campaign=MITRE%20Generic&utm_content=252943776&utm_medium=social&utm_source=twitter&hss_channel=tw-1126286964)
+* [MITRE Attack navigator](https://mitre-attack.github.io/attack-navigator/)
+  
+* [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator)
