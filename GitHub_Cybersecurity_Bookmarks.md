@@ -2,150 +2,150 @@
 
 Cybersecurity related repositories on GitHub:
 
-* [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve)
+* [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - This project provides a massive up-to-date collection of Nuclei templates that can be used to scan for vulnerabilities in WordPress.
 
-* [jassics/security-study-plan](https://github.com/jassics/security-study-plan)
+* [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - A Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on with free/paid resources, tools and concepts to excel.
 
-* [cncf/tag-security/tree/main](https://github.com/cncf/tag-security/tree/main)
+* [cncf/tag-security/tree/main](https://github.com/cncf/tag-security/tree/main) - The CNCF Security Technical Advisory Group facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
-* [itsmetraw/Cybersecurity-Roadmap](https://github.com/itsmetraw/Cybersecurity-Roadmap)
+* [itsmetraw/Cybersecurity-Roadmap](https://github.com/itsmetraw/Cybersecurity-Roadmap) - The Ultimate Hacker's Roadmap 2022
 
-* [Ignitetechnologies/Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
+* [Ignitetechnologies](https://github.com/Ignitetechnologies) - IGNITE is a worldwide name in the Information Technology field. As we provide high-quality cybersecurity training and consulting services that fulfil students.
 
-* [jaegeral/security-apis](https://github.com/jaegeral/security-apis)
+* [Ignitetechnologies/Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) - This cheatsheet is aimed at CTF players and beginners to help them understand the fundamentals of privilege escalation with examples. It is not a cheatsheet for enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to Hacking Articles.
 
-* [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
+* [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) - This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
 
-* [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)
+* [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - This cheatsheet was created to assist Red Teamers and Penetration Testers in hunting down vulnerabilities using "Nmap."
 
-* [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+* [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective awesome list of public (JSON) APIs for use in security.
 
-* [guardicore/monkey](https://github.com/guardicore/monkey)
+* [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.
 
-* [cert-orangecyberdefense/ransomware_map](https://github.com/cert-orangecyberdefense/ransomware_map)
+* [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out. 
 
-* [Limmen/awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+* [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist pentesters during an engagement, this document has several products default login/password gathered from multiple sources.
 
-* [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+* [guardicore/monkey](https://github.com/guardicore/monkey) - The Infection Monkey is an open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.
 
-* [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms)
+* [cert-orangecyberdefense/ransomware_map](https://github.com/cert-orangecyberdefense/ransomware_map) - Map tracking multiple ransomware groups, by OCD World Watch team.
 
-* [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks)
+* [Limmen/awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) - A curated list of resources dedicated to reinforcement learning applied to cyber security. Note that the list includes only work that uses reinforcement learning, general machine learning methods applied to cyber security are not included in this list.
 
-* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+* [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 
-* [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne)
+* [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) - A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 
-* [gfek/Real-CyberSecurity-Datasets](https://github.com/gfek/Real-CyberSecurity-Datasets)
+* [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.
 
-* [pikpikcu/js-finding](https://github.com/pikpikcu/js-finding)
+* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
 
-* [RoseSecurity/Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads)
+* [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) - This repository contains a Python script that allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories, helping to streamline the process of downloading multiple templates using just a single repository.
 
-* [FofaInfo/Awesome-FOFA](https://github.com/FofaInfo/Awesome-FOFA)
+* [gfek/Real-CyberSecurity-Datasets](https://github.com/gfek/Real-CyberSecurity-Datasets) - Public datasets to help you address various cyber security problems.
 
-* [netbiosX/Checklists](https://github.com/netbiosX/Checklists)
+* [pikpikcu/js-finding](https://github.com/pikpikcu/js-finding) - JS Finding is a Python tool for extracting JavaScript (JS) files from a given list of domains. This tool utilizes various utilities such as waybackurls, gauplus, and subjs to perform JS file extraction from the specified domains.
 
-* [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)
+* [RoseSecurity/Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads) - During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target's computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors!
 
-* [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT)
+* [FofaInfo/Awesome-FOFA](https://github.com/FofaInfo/Awesome-FOFA) - The FOFA Library collects usage tips, common scenarios, F&Q, and more for FOFA.
 
-* [4ndr34z/prenum](https://github.com/4ndr34z/prenum)
+* [netbiosX/Checklists](https://github.com/netbiosX/Checklists) - The aim of the project is to create detailed checklists that can be used by penetration testers and red teamers during their assessments. Every checklist will be linked with a detailed blog post on https://pentestlab.blog which will describe the technique and how to perform the required task. Information will also be included in the Wiki page on Github.
 
-* [fortra/nanodump](https://github.com/fortra/nanodump)
+* [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
 
-* [DeadS3c/DarkWeb](https://github.com/DeadS3c/DarkWeb)
+* [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things.
 
-* [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/2-part-100-article/new_articles/Windows%20Notes%20+%20Cheatsheet.pdf)
+* [4ndr34z/prenum](https://github.com/4ndr34z/prenum) - The perils of the Pre-Windows 2000 compatible access group in a Windows Domain.
 
-* [Ignitetechnologies](https://github.com/Ignitetechnologies)
+* [fortra/nanodump](https://github.com/fortra/nanodump) - A flexible tool that creates a minidump of the LSASS process.
 
-* [Raikia/CredNinja](https://github.com/Raikia/CredNinja)
+* [DeadS3c/DarkWeb](https://github.com/DeadS3c/DarkWeb) - Repository to include the findings for the Dark Web
 
-* [owasp-amass/amass](https://github.com/owasp-amass/amass)
+* [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/2-part-100-article/new_articles/Windows%20Notes%20+%20Cheatsheet.pdf) - Windows Notes + Cheatsheets.
 
-* [ThunderSon](https://github.com/ThunderSon)
+* [Raikia/CredNinja](https://github.com/Raikia/CredNinja) - A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB, plus now with a user hunter.
 
-* [righettod?tab=repositories](https://github.com/righettod?tab=repositories)
+* [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery.
 
-* [ITI/ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools)
+* [ThunderSon](https://github.com/ThunderSon) - Application Security Engineer. WSTG project lead. Integration Standard project lead.
 
-* [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)
+* [righettod?tab=repositories](https://github.com/righettod?tab=repositories) - Repositories related to penetration testing, AppSec, etc.
 
-* [Manisso/fsociety](https://github.com/Manisso/fsociety)
+* [ITI/ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) - Tools, tips, tricks, and more for exploring ICS Security.
 
-* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - A curated list of awesome Python security related resources.
 
-* [GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia)
+* [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework.
 
-* [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
+* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-* [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources/blob/main/Cybersecurity%20YouTube%20Channels/Cybersecurity%20YouTube%20Channels.md)
+* [GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 
-* [zeek/zeek](https://github.com/zeek/zeek)
+* [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository.
 
-* [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
+* [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources/blob/main/Cybersecurity%20YouTube%20Channels/Cybersecurity%20YouTube%20Channels.md) - A collection of list of Best Cybersecurity Youtube Channels.
 
-* [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+* [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 
-* [zedsec390](https://github.com/zedsec390)
+* [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security.
 
-* [mikeprivette/NIST-to-Tech](https://github.com/mikeprivette/NIST-to-Tech)
+* [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
-* [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+* [zedsec390](https://github.com/zedsec390) - Repositories related to penetration testing, AppSec, etc.
 
-* [V33RU/IoTSecurity101](https://github.com/V33RU/IoTSecurity101)
+* [mikeprivette/NIST-to-Tech](https://github.com/mikeprivette/NIST-to-Tech) - An open-source listing of cybersecurity technology mapped to the NIST Cybersecurity Framework (CSF).
 
-* [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR)
+* [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 
-* [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility)
+* [V33RU/IoTSecurity101](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources.
 
-* [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester)
+* [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR) - VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios.
 
-* [trailofbits](https://github.com/trailofbits)
+* [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework.
 
-* [MISP/MISP](https://github.com/MISP/MISP)
+* [trailofbits](https://github.com/trailofbits) - Since 2012, Trail of Bits has helped secure some of the world's most targeted organizations and devices. We combine high-end security research with a real-world attacker mentality to reduce risk and fortify code.
 
-* [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
+* [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform.
 
-* [vectra-ai-research/MAAD-AF](https://github.com/vectra-ai-research/MAAD-AF)
+* [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale.
 
-* [Malware-Research/Resources](https://github.com/Malware-Research/Resources)
+* [vectra-ai-research/MAAD-AF](https://github.com/vectra-ai-research/MAAD-AF) - MAAD Attack Framework - An attack tool for simple, fast & effective security testing of M365 & Azure AD.
 
-* [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird#an-osint-tool-to-search-fast-for-accounts-by-username-across-574-sites)
+* [Malware-Research/Resources](https://github.com/Malware-Research/Resources) - Collection of resources that are made by the Malware Research community.
 
-* [optiv/Freeze](https://github.com/optiv/Freeze)
+* [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird#an-osint-tool-to-search-fast-for-accounts-by-username-across-574-sites) - An OSINT tool to search for accounts by username in social networks.
 
-* [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester)
+* [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods.
 
-* [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)
+* [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet.
 
-* [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist)
+* [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 
-* [dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
+* [dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) - This repository contains a collection of cheatsheets for tools related to pentesting organizations that leverage cloud providers.
 
-* [OWASP/wstg](https://github.com/OWASP/wstg)
+* [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
-* [demisto](https://github.com/demisto)
+* [demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
 
-* [Ignitetechnologies/bugbounty](https://github.com/Ignitetechnologies/bugbounty)
+* [Ignitetechnologies/bugbounty](https://github.com/Ignitetechnologies/bugbounty) - 
 
-* [duty1g/subcat](https://github.com/duty1g/subcat)
+* [duty1g/subcat](https://github.com/duty1g/subcat) - 
 
-* [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
+* [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - 
 
-* [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+* [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - 
 
-* [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner)
+* [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
 
-* [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security)
+* [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - 
 
-* [bmarsh9/gapps](https://github.com/bmarsh9/gapps)
+* [bmarsh9/gapps](https://github.com/bmarsh9/gapps) - 
 
-* [righettod/toolbox-pentest-web](https://github.com/righettod/toolbox-pentest-web/blob/master/docs/README.md)
+* [righettod/toolbox-pentest-web](https://github.com/righettod/toolbox-pentest-web/blob/master/docs/README.md) - 
 
-* [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps)
+* [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps) - 
 
-* [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)
+* [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - 
 
-* [Gi7w0rm](https://github.com/Gi7w0rm)
+* [Gi7w0rm](https://github.com/Gi7w0rm) - 
