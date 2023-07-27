@@ -8,7 +8,7 @@ Cybersecurity related repositories on GitHub:
 
 * [cncf/tag-security/tree/main](https://github.com/cncf/tag-security/tree/main) - The CNCF Security Technical Advisory Group facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
-* [itsmetraw/Cybersecurity-Roadmap](https://github.com/itsmetraw/Cybersecurity-Roadmap) - The Ultimate Hacker's Roadmap 2022
+* [itsmetraw/Cybersecurity-Roadmap](https://github.com/itsmetraw/Cybersecurity-Roadmap) - The Ultimate Hacker's Roadmap 2022.
 
 * [Ignitetechnologies](https://github.com/Ignitetechnologies) - IGNITE is a worldwide name in the Information Technology field. As we provide high-quality cybersecurity training and consulting services that fulfil students.
 
@@ -17,6 +17,8 @@ Cybersecurity related repositories on GitHub:
 * [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) - This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
 
 * [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - This cheatsheet was created to assist Red Teamers and Penetration Testers in hunting down vulnerabilities using "Nmap."
+
+* [Ignitetechnologies/bugbounty](https://github.com/Ignitetechnologies/bugbounty) - This cheatsheet is built for Red Teamers and Penetration Testers in order to help them hunt for vulnerabilities. It is designed such that beginners can understand the fundamentals and professionals can brush up their skills with the advanced options.
 
 * [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective awesome list of public (JSON) APIs for use in security.
 
@@ -128,24 +130,22 @@ Cybersecurity related repositories on GitHub:
 
 * [demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
 
-* [Ignitetechnologies/bugbounty](https://github.com/Ignitetechnologies/bugbounty) - 
+* [duty1g/subcat](https://github.com/duty1g/subcat) - SubCat a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. SubCat is built for doing one thing only - passive subdomain enumeration, and it does that very well.
 
-* [duty1g/subcat](https://github.com/duty1g/subcat) - 
+* [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - Red Team Cheatsheet in constant expansion.
 
-* [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) - 
+* [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more.
 
-* [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - 
+* [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - S3cret Scanner tool designed to provide a complementary layer for the Amazon S3 Security Best Practices by proactively hunting secrets in public S3 buckets.
 
-* [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
+* [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 
-* [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - 
+* [bmarsh9/gapps](https://github.com/bmarsh9/gapps) - Security compliance platform - SOC2, CMMC, ASVS, ISO27001, HIPAA, NIST CSF, NIST 800-53, CSC CIS 18, PCI DSS, SSF tracking.
 
-* [bmarsh9/gapps](https://github.com/bmarsh9/gapps) - 
+* [righettod/toolbox-pentest-web](https://github.com/righettod/toolbox-pentest-web/blob/master/docs/README.md) - Cheat sheet index.
 
-* [righettod/toolbox-pentest-web](https://github.com/righettod/toolbox-pentest-web/blob/master/docs/README.md) - 
+* [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things.
 
-* [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps) - 
+* [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them.
 
-* [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - 
-
-* [Gi7w0rm](https://github.com/Gi7w0rm) - 
+* [Gi7w0rm](https://github.com/Gi7w0rm) - Malware and Reverse Engineering related repositories.
