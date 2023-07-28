@@ -149,3 +149,5 @@ Cybersecurity related repositories on GitHub:
 * [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them.
 
 * [Gi7w0rm](https://github.com/Gi7w0rm) - Malware and Reverse Engineering related repositories.
+
+* [saas-attacks](https://github.com/pushsecurity/saas-attacks) - This repository is a collection of SaaS-specific attack techniques. It is intended to be a resource for security researchers, red/blue teams, and penetration testers to learn about and share SaaS attack techniques.
