@@ -27,3 +27,5 @@ Here are some MITRE ATT&CK bookmarks that I use:
 * [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator)
 
 * [ATT&CK Data Sources](https://github.com/mitre-attack/attack-datasources)
+
+* [attack-stix-data](https://github.com/mitre-attack/attack-stix-data)
