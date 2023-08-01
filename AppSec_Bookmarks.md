@@ -9,6 +9,8 @@ Almost all the security & risk assessments that I conduct (PCI, CMMC, HIPAA, etc
 * [OWASP API Security Top 10](https://owasp.org/API-Security/editions/2023/en/0x00-header/)
   
 * [OWASP API Security Project | OWASP Foundation](https://owasp.org/www-project-api-security/)
+
+* [OWASP DevSecOps Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/)
   
 * [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
   
