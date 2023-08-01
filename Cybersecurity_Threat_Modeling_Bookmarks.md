@@ -18,6 +18,6 @@ Some threat modeling bookmarks:
   
 * [Threat Modeling AI/ML Systems and Dependencies](https://learn.microsoft.com/en-us/security/engineering/threat-modeling-aiml) from Microsoft
 
-* [Security Intelligence Threat Modeling](https://securityintelligence.com/tag/threat-modeling/)
+* [Threat Modeling](https://securityintelligence.com/tag/threat-modeling/) from Security Intelligence
   
 * [Cyber security threat modeling based on the MITRE Enterprise ATT&CK Matrix](https://www.researchgate.net/publication/352522645_Cyber_security_threat_modeling_based_on_the_MITRE_Enterprise_ATTCK_Matrix) from Wenjun Xiong, Emeline Legrand, Oscar Åberg, Lagerström Robert
