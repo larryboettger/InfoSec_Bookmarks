@@ -146,6 +146,8 @@ Cybersecurity related repositories on GitHub:
 
 * [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things.
 
+* [secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox is a kubernetes based, modularized toolchain for continuous security scans of your software project. Its goal is to orchestrate and easily automate a bunch of security-testing tools out of the box.
+
 * [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them.
 
 * [Gi7w0rm](https://github.com/Gi7w0rm) - Malware and Reverse Engineering related repositories.
