@@ -29,3 +29,5 @@ Here are some MITRE ATT&CK bookmarks that I use:
 * [ATT&CK Data Sources](https://github.com/mitre-attack/attack-datasources)
 
 * [attack-stix-data](https://github.com/mitre-attack/attack-stix-data)
+
+* [MITRE ATT&CK® Defender - ATT&CK Adversary Emulation](https://github.com/maddev-engenuity/AdversaryEmulation)
