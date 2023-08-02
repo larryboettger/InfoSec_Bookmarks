@@ -15,6 +15,8 @@ Here are some MITRE ATT&CK bookmarks that I use:
 * [MITRE ATT&CK mappings released for built-in Azure security controls | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2021/06/29/mitre-attck-mappings-released-for-built-in-azure-security-controls/)
 
 * [Picus Cyber Threat Intelligence Report May 2023: Top 10 MITRE ATT&CK Techniques](https://www.picussecurity.com/resource/blog/cyber-threat-intelligence-report-may-2023?utm_campaign=MITRE%20Generic&utm_content=252943776&utm_medium=social&utm_source=twitter&hss_channel=tw-1126286964)
+
+* [MITRE ATT&CK® Defender - ATT&CK Adversary Emulation](https://github.com/maddev-engenuity/AdversaryEmulation)
   
 * [MITRE Engage](https://engage.mitre.org/)
   
@@ -30,4 +32,4 @@ Here are some MITRE ATT&CK bookmarks that I use:
 
 * [attack-stix-data](https://github.com/mitre-attack/attack-stix-data)
 
-* [MITRE ATT&CK® Defender - ATT&CK Adversary Emulation](https://github.com/maddev-engenuity/AdversaryEmulation)
+
