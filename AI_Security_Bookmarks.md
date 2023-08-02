@@ -1,5 +1,7 @@
 # AI Security Bookmarks
 
+* [A New Attack Impacts Major AI Chatbots—and No One Knows How to Stop It](https://www.wired.com/story/ai-adversarial-attacks/)
+
 * [Google Launches Red Team to Secure AI Systems Against Attacks](https://securityboulevard.com/2023/07/google-launches-red-team-to-secure-ai-systems-against-attacks/)
 
 * [Ethical Hackers Reveal How They Use Generative AI](https://www.infosecurity-magazine.com/news/ethical-hackers-generative-ai/)
