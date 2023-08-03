@@ -6,6 +6,8 @@ Cybersecurity related repositories on GitHub:
 
 * [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks.
 
+* [Mega Collection of PowerShell Scripts](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
+
 * [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
 
 * [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - This project provides a massive up-to-date collection of Nuclei templates that can be used to scan for vulnerabilities in WordPress.
