@@ -2,7 +2,9 @@
 
 Cybersecurity related repositories on GitHub:
 
-* [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out. 
+* [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out.
+
+* [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks.
 
 * [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
 
