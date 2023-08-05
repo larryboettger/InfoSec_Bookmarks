@@ -17,6 +17,8 @@ Here are some MITRE ATT&CK bookmarks that I use:
 * [Picus Cyber Threat Intelligence Report May 2023: Top 10 MITRE ATT&CK Techniques](https://www.picussecurity.com/resource/blog/cyber-threat-intelligence-report-may-2023?utm_campaign=MITRE%20Generic&utm_content=252943776&utm_medium=social&utm_source=twitter&hss_channel=tw-1126286964)
 
 * [MITRE ATT&CK® Defender - ATT&CK Adversary Emulation](https://github.com/maddev-engenuity/AdversaryEmulation)
+
+* [Bro/Zeek ATT&CK-based Analytics and Reporting](https://github.com/mitre-attack/bzar)
   
 * [MITRE Engage](https://engage.mitre.org/)
   
@@ -32,6 +34,6 @@ Here are some MITRE ATT&CK bookmarks that I use:
 
 * [attack-stix-data](https://github.com/mitre-attack/attack-stix-data)
 
-* [Bro/Zeek ATT&CK-based Analytics and Reporting](https://github.com/mitre-attack/bzar)
+
 
 
