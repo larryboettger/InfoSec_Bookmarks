@@ -32,4 +32,6 @@ Here are some MITRE ATT&CK bookmarks that I use:
 
 * [attack-stix-data](https://github.com/mitre-attack/attack-stix-data)
 
+* [Bro/Zeek ATT&CK-based Analytics and Reporting](https://github.com/mitre-attack/bzar)
+
 
