@@ -156,4 +156,6 @@ Cybersecurity related repositories on GitHub:
 
 * [Gi7w0rm](https://github.com/Gi7w0rm) - Malware and Reverse Engineering related repositories.
 
+* [Best Practice for Network Segmentation Cheat Sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
+
 * [saas-attacks](https://github.com/pushsecurity/saas-attacks) - This repository is a collection of SaaS-specific attack techniques. It is intended to be a resource for security researchers, red/blue teams, and penetration testers to learn about and share SaaS attack techniques.
