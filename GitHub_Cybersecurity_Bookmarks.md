@@ -159,3 +159,5 @@ Cybersecurity related repositories on GitHub:
 * [Best Practice for Network Segmentation Cheat Sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
 
 * [saas-attacks](https://github.com/pushsecurity/saas-attacks) - This repository is a collection of SaaS-specific attack techniques. It is intended to be a resource for security researchers, red/blue teams, and penetration testers to learn about and share SaaS attack techniques.
+
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
