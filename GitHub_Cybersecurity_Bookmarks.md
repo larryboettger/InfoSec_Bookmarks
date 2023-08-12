@@ -4,6 +4,8 @@ Cybersecurity related repositories on GitHub:
 
 * [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out.
 
+* [Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - This repo contains a lot of vulnerability checklists.
+
 * [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks.
 
 * [Mega Collection of PowerShell Scripts](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
