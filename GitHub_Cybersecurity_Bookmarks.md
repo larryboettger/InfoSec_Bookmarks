@@ -68,8 +68,6 @@ Cybersecurity related repositories on GitHub:
 
 * [fortra/nanodump](https://github.com/fortra/nanodump) - A flexible tool that creates a minidump of the LSASS process.
 
-* [DeadS3c/DarkWeb](https://github.com/DeadS3c/DarkWeb) - Repository to include the findings for the Dark Web
-
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/2-part-100-article/new_articles/Windows%20Notes%20+%20Cheatsheet.pdf) - Windows Notes + Cheatsheets.
 
 * [Raikia/CredNinja](https://github.com/Raikia/CredNinja) - A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB, plus now with a user hunter.
