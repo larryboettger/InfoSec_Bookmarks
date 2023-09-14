@@ -2,7 +2,7 @@
 
 Cybersecurity related repositories on GitHub:
 
-* [https://github.com/ExtraHop/DGA-Detection-Training-Dataset](https://github.com/ExtraHop/DGA-Detection-Training-Dataset) - The dataset is intended to be used for research into the area DGA (Domain Generation Algorithm) detection, but has other applications as well. Being able to quickly and accurately identify a DGA is one of the keys to neutralizing the C&C (Command and Control) network of a Botnet. We use it for model design, training, validating our models.
+* [ExtraHop/DGA-Detection-Training-Dataset](https://github.com/ExtraHop/DGA-Detection-Training-Dataset) - The dataset is intended to be used for research into the area DGA (Domain Generation Algorithm) detection, but has other applications as well. Being able to quickly and accurately identify a DGA is one of the keys to neutralizing the C&C (Command and Control) network of a Botnet. We use it for model design, training, validating our models.
 
 * [https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/) - 20 cybersecurity projects on GitHub you should check out.
 
