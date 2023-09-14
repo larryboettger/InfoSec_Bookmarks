@@ -1,5 +1,7 @@
 # AI Security Bookmarks
 
+* [The Prompt: What to think about when you’re thinking about securing AI](https://cloud.google.com/blog/transform/prompt-what-think-about-when-youre-thinking-about-securing-ai)
+
 * [Cybercriminals train AI chatbots for phishing, malware attacks](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/)
 
 * [A New Attack Impacts Major AI Chatbots—and No One Knows How to Stop It](https://www.wired.com/story/ai-adversarial-attacks/)
