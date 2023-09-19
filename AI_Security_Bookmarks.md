@@ -1,5 +1,7 @@
 # AI Security Bookmarks
 
+* [LLM Guard: Open-source toolkit for securing Large Language Models](https://www.helpnetsecurity.com/2023/09/19/llm-guard-open-source-securing-large-language-models/)
+
 * [The Prompt: What to think about when you’re thinking about securing AI](https://cloud.google.com/blog/transform/prompt-what-think-about-when-youre-thinking-about-securing-ai)
 
 * [Cybercriminals train AI chatbots for phishing, malware attacks](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/)
