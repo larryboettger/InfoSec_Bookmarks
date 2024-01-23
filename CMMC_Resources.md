@@ -24,6 +24,8 @@
 
 * [NIST Special Publication 800-53 - CSF Tools](https://csf.tools/reference/nist-sp-800-53/)
 
+* [The DoD Cybersecurity Policy Chart – CSIAC](https://csiac.org/resources/the-dod-cybersecurity-policy-chart/)
+
 ## Supplier Performance Risk System (SPRS)
 
 * [SPRS - NIST SP 800-171](https://www.sprs.csd.disa.mil/nistsp.htm)
@@ -35,5 +37,3 @@
 * [How to submit a NIST SP 800-171 self assessment to SPRS](https://www.cmmcaudit.org/how-to-submit-a-nist-sp-800-171-self-assessment-to-sprs/)
 
 * [SPRS Government](https://www.sprs.csd.disa.mil/pdf/SPRS_Government.pdf)
-
-* [The DoD Cybersecurity Policy Chart – CSIAC](https://csiac.org/resources/the-dod-cybersecurity-policy-chart/)
