@@ -24,7 +24,7 @@
 
 * [NIST Special Publication 800-53 - CSF Tools](https://csf.tools/reference/nist-sp-800-53/)
 
-## Supplier Performance Risk System /(SPRS)/
+## Supplier Performance Risk System (SPRS)
 
 * [SPRS - NIST SP 800-171](https://www.sprs.csd.disa.mil/nistsp.htm)
 
