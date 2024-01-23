@@ -6,7 +6,7 @@
 
 * [CMMC Regulation](https://www.regulations.gov/docket/DOD-2023-OS-0063)
 
-* [CMMC-AB](https://cyberab.org/)
+* [Cyber-AB](https://cyberab.org/)
 
 * [NIST Special Publication (SP) 800-171 Rev. 2](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final)
 
