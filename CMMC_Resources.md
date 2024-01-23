@@ -36,4 +36,4 @@
   
 * [How to submit a NIST SP 800-171 self assessment to SPRS](https://www.cmmcaudit.org/how-to-submit-a-nist-sp-800-171-self-assessment-to-sprs/)
 
-* [SPRS Government](https://www.sprs.csd.disa.mil/pdf/SPRS_Government.pdf)
+* [SPRS Government User Guide - PDF](https://www.sprs.csd.disa.mil/pdf/SPRS_Government.pdf)
