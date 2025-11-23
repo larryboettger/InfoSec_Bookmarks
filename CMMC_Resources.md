@@ -18,7 +18,7 @@
 
 * [DoD Security Awareness Hub](https://securityawareness.dcsa.mil/)
 
-* [Complete 8500 Control List](https://www.stigviewer.com/controls/800-53)
+* [Complete 8500 Control List](https://www.stigviewer.com/)
 
 * [CMMC Level 2 - DIB SCC CyberAssist](https://ndisac.org/dibscc/cyberassist/cybersecurity-maturity-model-certification/level-2/)
 
