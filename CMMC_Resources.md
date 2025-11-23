@@ -16,7 +16,7 @@
 
 * [CMMC Center of Awesomeness](https://www.cmmc-coa.com/)
 
-* [DoD Security Awareness Hub](https://securityawareness.usalearning.gov/index.html)
+* [DoD Security Awareness Hub](https://securityawareness.dcsa.mil/)
 
 * [Complete 8500 Control List](https://www.stigviewer.com/controls/800-53)
 
