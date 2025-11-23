@@ -24,7 +24,7 @@
 
 * [NIST Special Publication 800-53 - CSF Tools](https://csf.tools/reference/nist-sp-800-53/)
 
-* [The DoD Cybersecurity Policy Chart – CSIAC](https://csiac.org/resources/the-dod-cybersecurity-policy-chart/)
+* [The DoD Cybersecurity Policy Chart – [CSIAC](https://csiac.dtic.mil/resources/the-dod-cybersecurity-policy-chart/))
 
 ## Supplier Performance Risk System (SPRS)
 
